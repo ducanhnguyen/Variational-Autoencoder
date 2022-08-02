@@ -1,4 +1,7 @@
 # Variational-Autoencoder
-My implementation of Variational Autoencoder.
 
-Let see full description <a href="https://github.com/ducanhnguyen/Variational-Autoencoder/blob/main/Variational_Autoencoder.pdf"> here</a>.
+![Alt text](https://github.com/ducanhnguyen/Variational-Autoencoder/blob/main/note/p1.png?raw=true "Title")
+![Alt text](https://github.com/ducanhnguyen/Variational-Autoencoder/blob/main/note/p2.png?raw=true "Title")
+![Alt text](https://github.com/ducanhnguyen/Variational-Autoencoder/blob/main/note/p3.png?raw=true "Title")
+![Alt text](https://github.com/ducanhnguyen/Variational-Autoencoder/blob/main/note/p4.png?raw=true "Title")
+![Alt text](https://github.com/ducanhnguyen/Variational-Autoencoder/blob/main/note/p5.png?raw=true "Title")
